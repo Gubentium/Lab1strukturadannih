@@ -21,6 +21,12 @@ class Program
 
     static void Main()
     {
+
+         Console.WriteLine("Иванова Ирина Геннадьевна");
+        Console.WriteLine("Группа: 09.03.04-РПИб-о25");
+        Console.WriteLine("1 курс");
+        Console.WriteLine();
+
         // Для ручного тестирования - с подсказками
         // Для сдачи в систему - закомментируйте DEBUG или удалите подсказки
 #if DEBUG
